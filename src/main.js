@@ -61,13 +61,13 @@ function loadContent(page) {
                 <div class="card-body d-flex justify-content-center align-items-center">
                   <div class='icons icons-container' style='row-gap: 20px; font-size: 30px;'>
                     <small class='text-center text-dark fw-lighter' style='color: #000; display: flex; align-items: center; justify-content: center; font-size: 20px;'>Contact Me</small>   
-                    <a href='#'><i class="bi bi-facebook"></i></a>
-                    <a href='#'><i class="bi bi-linkedin"></i></a>
-                    <a href='#'><i class="bi bi-github"></i></a>
-                    <a href='#'><i class="bi bi-tiktok"></i></a>
-                    <a href='#'><i class="bi bi-envelope"></i></a>
-                    <a href='#'><i class="bi bi-instagram"></i></a>
-                    <a href='#'><i class="bi bi-discord"></i></a>
+                    <a href='https://www.facebook.com/windeltortuganavales'><i class="bi bi-facebook"></i></a>
+                    <a href='https://www.linkedin.com/in/windel-navales-5a52652a7/'><i class="bi bi-linkedin"></i></a>
+                    <a href='https://github.com/rootasuser/'><i class="bi bi-github"></i></a>
+                    <a href='https://www.tiktok.com/@iamwen08'><i class="bi bi-tiktok"></i></a>
+                    <a href='mailto:windelnavales08@gmail.com?subject=Hello&body=I%20wanted%20to%20send%20you%20a%20quick%20message'><i class="bi bi-envelope"></i></a>
+                    <a href='https://www.instagram.com/windeltortuga/'><i class="bi bi-instagram"></i></a>
+                    <a href='discord://rootasuser/1301747554123255822'><i class="bi bi-discord"></i></a>
                     <div class='project-container mt-2'>
                       <a href='#' class='btn btn-secondary text-white' onclick="loadContent('projects')">Projects</a>
                     </div>
