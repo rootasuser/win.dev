@@ -149,7 +149,7 @@ function loadContent(page) {
   <div class="row">
     <div class="col-md-4 mb-4">
       <div class="card shadow-sm d-flex flex-column h-100">
-        <img src="src/assets/project-images/bms.png" class="card-img-top" alt="Project 1">
+        <img src="src/assets/images/bms.png" class="card-img-top" alt="Project 1">
         <div class="card-body d-flex flex-column">
           <h5 class="card-title">Barangay Management System</h5>
           <p class="card-text">A Barangay Management System where only an admin can view, delete, and edit residents' and non-residents' data, search for residents/non-residents, and generate barangay certificates or certificates of residency.</p>
@@ -160,7 +160,7 @@ function loadContent(page) {
 
     <div class="col-md-4 mb-4">
       <div class="card shadow-sm d-flex flex-column h-100">
-        <img src="src/assets/project-images/dts.png" class="card-img-top" alt="Project 2">
+        <img src="src/assets/images/dts.png" class="card-img-top" alt="Project 2">
         <div class="card-body d-flex flex-column">
           <h5 class="card-title">Document Tracker System</h5>
           <p class="card-text">Document Tracker System allows users to add documents, search for documents, view documents, and update accounts.</p>
@@ -171,7 +171,7 @@ function loadContent(page) {
 
     <div class="col-md-4 mb-4">
       <div class="card shadow-sm d-flex flex-column h-100">
-        <img src="src/assets/project-images/ojt.png" class="card-img-top" alt="Project 3">
+        <img src="src/assets/images/ojt.png" class="card-img-top" alt="Project 3">
         <div class="card-body d-flex flex-column">
           <h5 class="card-title">OJT Documentation System</h5>
           <p class="card-text">OJT Documentation System allows users to track their documentation, download all documentations, time-in and time-out, search for documentation, view documentations, and reset all documentations.</p>
